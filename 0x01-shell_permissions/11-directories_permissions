@@ -1,2 +1,2 @@
 #!/bin/ban
-chmod -R +X .
+chmod -r +x .
